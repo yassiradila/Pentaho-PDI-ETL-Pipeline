@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Pentaho Data Integration / Kettle temporary files and logs
+*.log
+.karaf/
+system/
+repositories.xml.bak
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Office temporary lock files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
